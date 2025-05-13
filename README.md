@@ -32,3 +32,9 @@
 ## References
 
 - Keselman, A., Vishwanath, A., Álamos, O., & Gullans, M. (2020). *Operator spreading and the emergent light cone in random unitary circuits*. arXiv:2009.10104v1
+
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/1d511184-6175-4456-a5e5-2bc3a9c8eaf2" alt="image">
+</p>
+
+
